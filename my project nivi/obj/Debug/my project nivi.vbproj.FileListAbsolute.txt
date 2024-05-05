@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\my project nivi\my project nivi\bin\Debug\my project nivi.exe.config
+C:\Users\USER\source\repos\my project nivi\my project nivi\bin\Debug\my project nivi.exe
+C:\Users\USER\source\repos\my project nivi\my project nivi\bin\Debug\my project nivi.pdb
+C:\Users\USER\source\repos\my project nivi\my project nivi\bin\Debug\my project nivi.xml
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my project nivi.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my project nivi.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my_project_nivi.details.resources
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my_project_nivi.login.resources
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my_project_nivi.mainform.resources
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my_project_nivi.Resources.resources
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my project nivi.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my project nivi.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my project nivi.exe
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my project nivi.xml
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my project nivi.pdb
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my_project_nivi.salary.resources
+C:\Users\USER\source\repos\my project nivi\my project nivi\obj\Debug\my_project_nivi.employeemanage.resources
